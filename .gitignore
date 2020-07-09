@@ -4,9 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
-.idea
 package-lock.json
-public
+
+
+Site/package-lock.json
+Site/node_modules
+Site/build
+
+
+.idea
 .idea/.gitignore
 .idea/codestream.xml
 .idea/modules.xml

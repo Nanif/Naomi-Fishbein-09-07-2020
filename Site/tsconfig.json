@@ -20,6 +20,6 @@
     "jsx": "react"
   },
   "include": [
-    "Site/src"
+    "src"
   ]
 }
